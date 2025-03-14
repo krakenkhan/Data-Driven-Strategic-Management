@@ -3,6 +3,9 @@
 ## Overview
 This repository contains the code and analysis for studying a social network of TV show Facebook pages. The network is based on mutually liked Facebook pages, where nodes represent TV show pages, and edges indicate mutual likes. The dataset was collected in November 2017 and represents blue-verified Facebook page networks.
 
+![image](https://github.com/user-attachments/assets/fef326d6-4e1c-4024-81af-63fa04a6514a)
+
+
 ## Features
 - **Network Construction & Visualization**: Graph representation of TV show pages and their mutual connections.
 - **Network Metrics**:
@@ -31,7 +34,7 @@ This repository contains the code and analysis for studying a social network of 
 - BA model best approximates the real network’s degree distribution.
 
 ## Contributors
-- Munish KHan
+- Munish Khan
 
 For any questions or suggestions, feel free to open an issue!
 
