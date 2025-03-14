@@ -19,7 +19,7 @@ This repository contains the code and analysis for studying a social network of 
 
 
 ## Files
-- `ddsm.ipynb` - Main script for network analysis.
+- `DDSM_finalproject.ipynb` - Main script for network analysis.
 - `data/tv_show_network.csv` - Input dataset containing mutual likes.
 - `README.md` - Documentation of the project.
 - `report.pdf` - Generated report based on analysis.
